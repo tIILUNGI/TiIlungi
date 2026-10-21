@@ -33,24 +33,19 @@
 ### Atlas AI — Agents for Education
 **EN:** An education-focused project exploring AI agents.  
 **PT:** Projecto orientado para a educação que explora agentes de inteligência artificial.  
-- Repository: `ADD_REPOSITORY_URL`
-- Demo: `ADD_DEMO_URL_IF_AVAILABLE`
+
 
 ### Salya
 **EN:** A business-management product project. Add only the modules and features that can be demonstrated.  
 **PT:** Projecto de produto para gestão empresarial. Adiciona apenas módulos e funcionalidades que possam ser demonstrados.  
-- Repository: `ADD_REPOSITORY_URL`
-- Demo: `ADD_DEMO_URL_IF_AVAILABLE`
+
 
 ### Gestora / Gestora Pro
 **EN:** Management-system project(s). Clarify the relationship between similarly named repositories before featuring them.  
 **PT:** Projecto(s) de sistemas de gestão. Esclarece a relação entre repositórios com nomes semelhantes antes de os destacar.  
-- Repository: `ADD_REPOSITORY_URL`
 
 ## Technology / Tecnologias
 
-**EN:** The technology list will be updated after auditing the repositories.  
-**PT:** A lista de tecnologias será actualizada depois de auditar os repositórios.
 
 <!-- Add only technologies confirmed in source code and that you can discuss confidently. -->
 
